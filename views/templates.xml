@@ -740,7 +740,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                          src="http://www.noortec.com/wp-content/uploads/2017/09/170707_B2_Webbanner_Hauptmotiv_03_sa.jpg"
                                          alt=""
                                          title="170707_B2_Webbanner_Hauptmotiv_03_sa"/>
-                                    <div class="container  kl-iosslide-caption kl-ioscaption--style5 fromleft klios-aligncenter kl-caption-posv-top">
+                                    <div class="carousel-caption s3ext fromleft klios-alignleft">
                                         <div class="znParallax-object">
                                             <h4 class="title_small_top">KBA</h4>
                                             <h2 class="main_title has_titlebig  " itemprop="headline">
@@ -769,7 +769,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                          src="http://www.noortec.com/wp-content/uploads/2017/08/29546-443_showcase_decor_1920x670.jpg"
                                          alt=""
                                          title="170707_B2_Webbanner_Hauptmotiv_03_sa"/>
-                                    <div class="container  kl-iosslide-caption kl-ioscaption--style5 fromleft klios-aligncenter kl-caption-posv-top">
+                                    <div class="carousel-caption s3ext fromleft klios-alignleft">
                                         <div class="znParallax-object">
                                             <h4 class="title_small_top">KBA</h4>
                                             <h2 class="main_title has_titlebig  " itemprop="headline">
@@ -797,7 +797,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                     <img class="slide-item-bg cover-fit-img vertical-pos--center"
                                          src="http://www.noortec.com/wp-content/uploads/2017/09/Rapida_106_Seitenansicht-2.jpg"
                                          alt="" title="Rapida_106_Seitenansicht-2"/>
-                                    <div class="container  kl-iosslide-caption kl-ioscaption--style5 fromleft klios-aligncenter kl-caption-posv-top">
+                                    <div class="carousel-caption s3ext fromleft klios-alignleft">
                                         <div class="znParallax-object"
                                              data-zn-parallax-obj="{&quot;scene&quot;:{&quot;triggerHook&quot;:&quot;onLeave&quot;,&quot;triggerElement&quot;:&quot;.eluida87a01a4&quot;,&quot;duration&quot;:&quot;height&quot;},&quot;tween&quot;:{&quot;speed&quot;:&quot;0.15&quot;,&quot;css&quot;:{&quot;opacity&quot;:{&quot;from&quot;:&quot;1&quot;,&quot;to&quot;:&quot;0&quot;}}}}"
                                              style="opacity: 0.861492;">
@@ -843,7 +843,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                     <img class="slide-item-bg cover-fit-img vertical-pos--center"
                                          src="http://www.noortec.com/wp-content/uploads/2017/09/Banner_Eberle_Druck_1920x670.jpg"
                                          alt="" title="Banner_Eberle_Druck_1920x670"/>
-                                    <div class="container  kl-iosslide-caption kl-ioscaption--style4 fromleft klios-alignright kl-caption-posv-middle">
+                                    <div class="carousel-caption s3ext fromleft klios-alignleft">
                                         <div class="znParallax-object"
                                              data-zn-parallax-obj="{&quot;scene&quot;:{&quot;triggerHook&quot;:&quot;onLeave&quot;,&quot;triggerElement&quot;:&quot;.eluida87a01a4&quot;,&quot;duration&quot;:&quot;height&quot;},&quot;tween&quot;:{&quot;speed&quot;:&quot;0.15&quot;,&quot;css&quot;:{&quot;opacity&quot;:{&quot;from&quot;:&quot;1&quot;,&quot;to&quot;:&quot;0&quot;}}}}"
                                              style="opacity: 0.861492;">
@@ -869,27 +869,27 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                 </div>
                                 <div class="item ">
 
-                                        <img class="slide-item-bg cover-fit-img vertical-pos--center"
-                                             src="http://www.noortec.com/wp-content/uploads/2017/09/KBA_AZ_ErgoTronic-AutoRun_Keyvisual_Header_1920x670px_EN.jpg"
-                                             alt="" title="KBA_AZ_ErgoTronic-AutoRun_Keyvisual_Header_1920x670px_EN"/>
-                                        <div class="container  kl-iosslide-caption kl-ioscaption--style3 s3ext fromleft klios-alignleft kl-caption-posv-top">
-                                            <div class="znParallax-object"
-                                                 data-zn-parallax-obj="{&quot;scene&quot;:{&quot;triggerHook&quot;:&quot;onLeave&quot;,&quot;triggerElement&quot;:&quot;.eluida87a01a4&quot;,&quot;duration&quot;:&quot;height&quot;},&quot;tween&quot;:{&quot;speed&quot;:&quot;0.15&quot;,&quot;css&quot;:{&quot;opacity&quot;:{&quot;from&quot;:&quot;1&quot;,&quot;to&quot;:&quot;0&quot;}}}}"
-                                                 style="opacity: 0.861492;">
-                                                <h2 class="main_title has_titlebig  " itemprop="headline">
-                                                    <span>
-                                                        <strong>ErgoTronic AutoRun</strong>
-                                                    </span>
-                                                </h2>
-                                                <h4 class="title_small" itemprop="alternativeHeadline">www.noortec.com
-                                                </h4>
-                                                <h3 class="title_big" itemprop="alternativeHeadline">
-                                                    <strong>Autonomous printing for more productivity.
+                                    <img class="slide-item-bg cover-fit-img vertical-pos--center"
+                                         src="http://www.noortec.com/wp-content/uploads/2017/09/KBA_AZ_ErgoTronic-AutoRun_Keyvisual_Header_1920x670px_EN.jpg"
+                                         alt="" title="KBA_AZ_ErgoTronic-AutoRun_Keyvisual_Header_1920x670px_EN"/>
+                                    <div class="carousel-caption s3ext fromleft klios-alignleft">
+                                        <div class="znParallax-object"
+                                             data-zn-parallax-obj="{&quot;scene&quot;:{&quot;triggerHook&quot;:&quot;onLeave&quot;,&quot;triggerElement&quot;:&quot;.eluida87a01a4&quot;,&quot;duration&quot;:&quot;height&quot;},&quot;tween&quot;:{&quot;speed&quot;:&quot;0.15&quot;,&quot;css&quot;:{&quot;opacity&quot;:{&quot;from&quot;:&quot;1&quot;,&quot;to&quot;:&quot;0&quot;}}}}"
+                                             style="opacity: 0.861492;">
+                                            <h2 class="main_title has_titlebig  " itemprop="headline">
+                                                <span>
+                                                    <strong>ErgoTronic AutoRun</strong>
+                                                </span>
+                                            </h2>
+                                            <h4 class="title_small" itemprop="alternativeHeadline">www.noortec.com
+                                            </h4>
+                                            <h3 class="title_big" itemprop="alternativeHeadline">
+                                                <strong>Autonomous printing for more productivity.
 
-                                                    </strong>
-                                                </h3>
-                                            </div>
+                                                </strong>
+                                            </h3>
                                         </div>
+                                    </div>
 
                                 </div>
                             </div>
@@ -1490,7 +1490,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item ">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-cloned"
-                                                                              tabindex="-1"
+                                                                             tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide27"
                                                                              data-slick-index="-3"
@@ -1535,7 +1535,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item ">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-active"
-                                                                              tabindex="-1"
+                                                                             tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide22"
                                                                              data-slick-index="2"
@@ -1583,7 +1583,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item ">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-active"
-                                                                              tabindex="-1"
+                                                                             tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide23"
                                                                              data-slick-index="3"
@@ -1629,7 +1629,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item ">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-current slick-active slick-item--activated"
-                                                                              tabindex="-1"
+                                                                             tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide24"
                                                                              data-slick-index="4"
@@ -1674,7 +1674,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item ">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-active"
-                                                                              tabindex="-1"
+                                                                             tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide25"
                                                                              data-slick-index="5"
@@ -1720,7 +1720,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item ">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-active"
-                                                                              tabindex="-1"
+                                                                             tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide26"
                                                                              data-slick-index="6"
@@ -1766,7 +1766,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-current slick-active slick-item--activated"
-                                                                              tabindex="-1"
+                                                                             tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide27"
                                                                              data-slick-index="7"
@@ -1811,7 +1811,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-active"
-                                                                              tabindex="-1"
+                                                                             tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide28"
                                                                              data-slick-index="8"
@@ -1856,7 +1856,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-active"
-                                                                              tabindex="-1"
+                                                                             tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide29"
                                                                              data-slick-index="9"
@@ -1902,7 +1902,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-cloned"
-                                                                              tabindex="-1"
+                                                                             tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide20"
                                                                              data-slick-index="10"
@@ -1948,7 +1948,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post slick-item--activated  slick-cloned"
-                                                                              tabindex="-1"
+                                                                             tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide21"
                                                                              data-slick-index="11"
@@ -2058,7 +2058,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                              data-slick-index="0" aria-hidden="false"
                                                                              tabindex="-1" role="option"
                                                                              aria-describedby="slick-slide50"
-                                                                             >
+                                                                        >
                                                                             <a href="http://www.noortec.com/kodak-announces-plate-price-increase/"
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
@@ -2099,7 +2099,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                              data-slick-index="1" aria-hidden="false"
                                                                              tabindex="-1" role="option"
                                                                              aria-describedby="slick-slide51"
-                                                                             >
+                                                                        >
                                                                             <a href="http://www.noortec.com/kodak-continues-investment-collaboration-packaging-labelexpo-europe-2017/"
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
@@ -2141,7 +2141,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                              data-slick-index="2" aria-hidden="false"
                                                                              tabindex="-1" role="option"
                                                                              aria-describedby="slick-slide52"
-                                                                             >
+                                                                        >
                                                                             <a href="http://www.noortec.com/expanded-digital-partnerships-kodak-prinergy-workflow-8-1-provide-ultimate-flexibility/"
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
@@ -2184,7 +2184,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                              data-slick-index="3" aria-hidden="false"
                                                                              tabindex="-1" role="option"
                                                                              aria-describedby="slick-slide53"
-                                                                             >
+                                                                        >
                                                                             <a href="http://www.noortec.com/kodaks-print-good-program-bolsters-rochester-literacy-initiatives/"
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
@@ -2226,7 +2226,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                              data-slick-index="4" aria-hidden="false"
                                                                              tabindex="-1" role="option"
                                                                              aria-describedby="slick-slide54"
-                                                                             >
+                                                                        >
                                                                             <a href="http://www.noortec.com/kodak-installs-worlds-first-prosper-6000s-press-folding-cartons-zumbiel-digital/"
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
@@ -2268,7 +2268,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                              data-slick-index="5" aria-hidden="false"
                                                                              tabindex="-1" role="option"
                                                                              aria-describedby="slick-slide55"
-                                                                             >
+                                                                        >
                                                                             <a href="http://www.noortec.com/china-print-2017-kodak-offers-advanced-flexo-technology-superior-alternative-gravure-printing-packaging/"
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
@@ -2311,7 +2311,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                              data-slick-index="6" aria-hidden="false"
                                                                              tabindex="-1" role="option"
                                                                              aria-describedby="slick-slide56"
-                                                                             >
+                                                                        >
                                                                             <a href="http://www.noortec.com/kodak-demonstrates-latest-pre-press-technology-boost-productivity-growth-printers-china-print-2017/"
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
@@ -2354,7 +2354,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                              data-slick-index="7" aria-hidden="false"
                                                                              tabindex="-1" role="option"
                                                                              aria-describedby="slick-slide57"
-                                                                             >
+                                                                        >
                                                                             <a href="http://www.noortec.com/kodak-wins-edp-award-2017-kodak-nexpress-zx3900-digital-production-color-press/"
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
@@ -2396,7 +2396,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                              data-slick-index="8" aria-hidden="false"
                                                                              tabindex="-1" role="option"
                                                                              aria-describedby="slick-slide58"
-                                                                             >
+                                                                        >
                                                                             <a href="http://www.noortec.com/kodaks-inkjet-technologies-offer-new-opportunities-publishing-packaging-psps-china-print-2017/"
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
@@ -2439,7 +2439,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                              data-slick-index="9" aria-hidden="false"
                                                                              tabindex="-1" role="option"
                                                                              aria-describedby="slick-slide59"
-                                                                             >
+                                                                        >
                                                                             <a href="http://www.noortec.com/flexo-inkjet-offset-workflow-kodak-brings-china-print-2017/"
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
@@ -3032,7 +3032,6 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                          data-active-slide="0">
 
 
-
                         <div class="laptop-slider__inner container ls--theme-dark">
                             <div class=" ls__container kl-slideshow-safepadding">
 
@@ -3253,6 +3252,10 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                     <i class="fa fa-2x fa-map-marker"></i>
                                                     Open in Google Maps
                                                 </a>
+                                            </p>
+                                            <p>
+                                                <t t-call="website.language_selector"/>
+
                                             </p>
                                         </div>
 
