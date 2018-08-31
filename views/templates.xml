@@ -3128,7 +3128,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
         <template id="noortec_layout_footer_default" inherit_id="website.footer_default">
-            <xpath expr="//div[@id='footer']" position="replace">
+            <xpath expr="//div[@id='footer']" position="before">
 
 
                 <div class="ftr_main site-footer">
