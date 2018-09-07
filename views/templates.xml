@@ -25,7 +25,7 @@
                       href="/artarad_noortec_website/static/src/css/slick-theme.css"/>
                 <script type="text/javascript" src="/artarad_noortec_website/static/src/js/plugins.min.js"></script>
                 <script type="text/javascript" src="/artarad_noortec_website/static/src/js/echo.js"></script>
-                <!--<script type="text/javascript" src="/artarad_noortec_website/static/src/js/znscript.min.js"></script>-->
+                <script type="text/javascript" src="/artarad_noortec_website/static/src/js/znscript.min.js"></script>
                 <script type="text/javascript" src="/artarad_noortec_website/static/src/js/slick.min.js"></script>
                 <script type="text/javascript" src="/artarad_noortec_website/static/src/js/wp-embed.min.js"></script>
                 <script type="text/javascript" src="/artarad_noortec_website/static/src/js/owl.carousel.js"></script>
