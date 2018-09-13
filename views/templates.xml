@@ -140,9 +140,9 @@
                                                         <h1 class="site-logo logo " id="logo">
                                                             <a href="/" class="site-logo-anch">
                                                                 <img class="logo-img site-logo-img"
-                                                                     src="http://www.noortec.com/wp-content/uploads/2017/04/NOORTEC-LOGO-IN-HEADER.png"
+                                                                     src="/artarad_noortec_website/static/src/img/NOORTEC-LOGO-IN-HEADER.png"
                                                                      alt="Noortec" title="Best Machineries and Support"
-                                                                     data-mobile-logo="http://www.noortec.com/wp-content/uploads/2017/04/NOORTEC-LOGO-IN-HEADER.png"/>
+                                                                     data-mobile-logo="/artarad_noortec_website/static/src/img/NOORTEC-LOGO-IN-HEADER.png"/>
                                                             </a>
                                                         </h1>            <!-- InfoCard -->
                                                     </div>
@@ -153,7 +153,7 @@
                                                 <div class="fxb-col fxb fxb-center-x fxb-center-y fxb-basis-auto fxb-sm-half site-header-col-center site-header-main-center">
                                                     <div class="sh-component main-menu-wrapper" role="navigation"
                                                          itemscope="itemscope"
-                                                         itemtype="">
+                                                         itemtype="https://schema.org/SiteNavigationElement">
 
                                                         <div class="zn-res-menuwrapper">
                                                             <a href="#"
@@ -170,7 +170,7 @@
                                                                 class="main-menu main-menu-nav zn_mega_menu ">
                                                                 <li id="menu-item-1417"
                                                                     class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1417 menu-item-mega-parent menu-item-has-children  main-menu-item-top  menu-item-even menu-item-depth-0">
-                                                                    <a href="kba"
+                                                                    <a href="http://www.noortec.com/kba/"
                                                                        class=" main-menu-link main-menu-link-top">
                                                                         <span>KBA</span>
                                                                     </a>
@@ -178,21 +178,21 @@
                                                                         <ul class="clearfix">
                                                                             <li id="menu-item-1646"
                                                                                 class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1646 col-sm-3 main-menu-item-sub  menu-item-odd menu-item-depth-1">
-                                                                                <a href="sheetfed-solutions/"
+                                                                                <a href="http://www.noortec.com/kba/sheetfed-solutions/"
                                                                                    class=" main-menu-link main-menu-link-sub zn_mega_title ">
                                                                                     <span>Sheetfed Solutions</span>
                                                                                 </a>
                                                                                 <ul class="clearfix">
                                                                                     <li id="menu-item-1419"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1419  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="sheetfed-offset"
+                                                                                        <a href="http://www.noortec.com/kba/sheetfed-solutions/sheetfed-offset/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Sheetfed Offset</span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li id="menu-item-1707"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1707  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="digital-sheetfed-printing"
+                                                                                        <a href="http://www.noortec.com/kba/sheetfed-solutions/digital-sheetfed-printing/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Digital Sheetfed
                                                                                                 Printing
@@ -201,7 +201,7 @@
                                                                                     </li>
                                                                                     <li id="menu-item-1719"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1719  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="finishing-and-post-press"
+                                                                                        <a href="http://www.noortec.com/kba/sheetfed-solutions/finishing-and-post-press/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Finishing and Post
                                                                                                 Press
@@ -210,17 +210,16 @@
                                                                                     </li>
                                                                                     <li id="menu-item-1747"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1747  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="quality-measurement-and-control-systems"
+                                                                                        <a href="http://www.noortec.com/kba/sheetfed-solutions/quality-measurement-and-control-systems/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Quality Measurement
-                                                                                                &amp;
-                                                                                                Control Systems
+                                                                                                &amp; Control Systems
                                                                                             </span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li id="menu-item-1822"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1822  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/workflow"
+                                                                                        <a href="http://www.noortec.com/kba/sheetfed-solutions/sheetfed-offset/workflow/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Workflow</span>
                                                                                         </a>
@@ -229,7 +228,7 @@
                                                                             </li>
                                                                             <li id="menu-item-1683"
                                                                                 class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1683 col-sm-3 main-menu-item-sub  menu-item-odd menu-item-depth-1">
-                                                                                <a href="/digital-and-web-solutions"
+                                                                                <a href="http://www.noortec.com/kba/digital-and-web-solutions/"
                                                                                    class=" main-menu-link main-menu-link-sub zn_mega_title ">
                                                                                     <span>Digital &amp; Web Solutions
                                                                                     </span>
@@ -237,7 +236,7 @@
                                                                                 <ul class="clearfix">
                                                                                     <li id="menu-item-1790"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1790  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/digital-and-web-printing"
+                                                                                        <a href="http://www.noortec.com/kba/digital-and-web-solutions/digital-web-printing/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Digital Web Printing
                                                                                             </span>
@@ -245,21 +244,21 @@
                                                                                     </li>
                                                                                     <li id="menu-item-1792"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1792  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/web-offset"
+                                                                                        <a href="http://www.noortec.com/kba/digital-and-web-solutions/web-offset/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>WEB OFFSET</span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li id="menu-item-1800"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1800  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/reel-stand"
+                                                                                        <a href="http://www.noortec.com/kba/digital-and-web-solutions/reel-stand/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Reel Stand</span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li id="menu-item-1805"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1805  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="page/paper-logistic"
+                                                                                        <a href="http://www.noortec.com/kba/digital-and-web-solutions/paper-logistic/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Paper logistic</span>
                                                                                         </a>
@@ -268,14 +267,14 @@
                                                                             </li>
                                                                             <li id="menu-item-1688"
                                                                                 class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1688 col-sm-3 main-menu-item-sub  menu-item-odd menu-item-depth-1">
-                                                                                <a href="/flexo-solutions"
+                                                                                <a href="http://www.noortec.com/kba/flexo-solutions/"
                                                                                    class=" main-menu-link main-menu-link-sub zn_mega_title ">
                                                                                     <span>Flexo Solutions</span>
                                                                                 </a>
                                                                                 <ul class="clearfix">
                                                                                     <li id="menu-item-1809"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1809  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/flexible-packaging-printing"
+                                                                                        <a href="http://www.noortec.com/kba/flexo-solutions/flexible-packaging-printing/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Flexible Packaging
                                                                                                 Printing
@@ -284,7 +283,7 @@
                                                                                     </li>
                                                                                     <li id="menu-item-1818"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1818  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/direct-printing-on-corrugated"
+                                                                                        <a href="http://www.noortec.com/kba/flexo-solutions/direct-printing-on-corrugated/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Direct Printing on
                                                                                                 Corrugated
@@ -295,7 +294,7 @@
                                                                             </li>
                                                                             <li id="menu-item-2519"
                                                                                 class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2519 col-sm-3 main-menu-item-sub  menu-item-odd menu-item-depth-1">
-                                                                                <a href="/special-solutions"
+                                                                                <a href="http://www.noortec.com/kba/special-solutions/"
                                                                                    class=" main-menu-link main-menu-link-sub zn_mega_title ">
                                                                                     <span>Special Solutions</span>
                                                                                 </a>
@@ -317,8 +316,7 @@
                                                                                            rel="nofollow"
                                                                                            target="_blank">
                                                                                             <span>Printing on Glass
-                                                                                                &amp;
-                                                                                                Hollow Containers
+                                                                                                &amp; Hollow Containers
                                                                                             </span>
                                                                                         </a>
                                                                                     </li>
@@ -349,7 +347,7 @@
                                                                 </li>
                                                                 <li id="menu-item-1832"
                                                                     class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1832 menu-item-mega-parent menu-item-has-children  main-menu-item-top  menu-item-even menu-item-depth-0">
-                                                                    <a href="/kodak"
+                                                                    <a href="http://www.noortec.com/kodak/"
                                                                        class=" main-menu-link main-menu-link-top">
                                                                         <span>KODAK</span>
                                                                     </a>
@@ -357,7 +355,7 @@
                                                                         <ul class="clearfix">
                                                                             <li id="menu-item-1845"
                                                                                 class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1845 col-sm-3 main-menu-item-sub  menu-item-odd menu-item-depth-1">
-                                                                                <a href="/digital-printing-solutions"
+                                                                                <a href="http://www.noortec.com/kodak/digital-printing-solutions/"
                                                                                    class=" main-menu-link main-menu-link-sub zn_mega_title ">
                                                                                     <span>Digital Printing Solutions
                                                                                     </span>
@@ -365,7 +363,7 @@
                                                                                 <ul class="clearfix">
                                                                                     <li id="menu-item-1882"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1882  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/prosper-platform"
+                                                                                        <a href="http://www.noortec.com/kodak/digital-printing-solutions/prosper-platform/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>PROSPER Platform
                                                                                             </span>
@@ -373,7 +371,7 @@
                                                                                     </li>
                                                                                     <li id="menu-item-1881"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1881  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/nexpress-platform"
+                                                                                        <a href="http://www.noortec.com/kodak/digital-printing-solutions/nexpress-platform/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>NEXPRESS Platform
                                                                                             </span>
@@ -381,15 +379,16 @@
                                                                                     </li>
                                                                                     <li id="menu-item-1880"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1880  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/digimaster-hd-digital"
+                                                                                        <a href="http://www.noortec.com/kodak/digital-printing-solutions/digimaster-hd-digital/"
                                                                                            class=" main-menu-link main-menu-link-sub">
-                                                                                            <span>DIGIMASTER HD Digital
+                                                                                            <span>DIGIMASTER HD
+                                                                                                Digital
                                                                                             </span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li id="menu-item-1879"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1879  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/versamark-printing"
+                                                                                        <a href="http://www.noortec.com/kodak/digital-printing-solutions/versamark-printing/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>VERSAMARK Printing
                                                                                             </span>
@@ -399,22 +398,23 @@
                                                                             </li>
                                                                             <li id="menu-item-1851"
                                                                                 class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1851 col-sm-3 main-menu-item-sub  menu-item-odd menu-item-depth-1">
-                                                                                <a href="/flexographic-and-letterpress"
+                                                                                <a href="http://www.noortec.com/kodak/flexographic-and-letterpress/"
                                                                                    class=" main-menu-link main-menu-link-sub zn_mega_title ">
-                                                                                    <span>Flexographic &amp; Letterpress
+                                                                                    <span>Flexographic &amp;
+                                                                                        Letterpress
                                                                                     </span>
                                                                                 </a>
                                                                                 <ul class="clearfix">
                                                                                     <li id="menu-item-1900"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1900  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/flexcel-systems"
+                                                                                        <a href="http://www.noortec.com/kodak/flexographic-and-letterpress/flexcel-systems/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Flexcel Systems</span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li id="menu-item-2804"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2804  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/flexcel-washout-solutions"
+                                                                                        <a href="http://www.noortec.com/kodak/flexographic-and-letterpress/flexcel-washout-solutions/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>FLEXCEL Washout
                                                                                                 Solutions
@@ -423,7 +423,7 @@
                                                                                     </li>
                                                                                     <li id="menu-item-2803"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2803  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/flexcel-sr-plates"
+                                                                                        <a href="http://www.noortec.com/kodak/flexographic-and-letterpress/flexcel-sr-plates/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>FLEXCEL SR Plates
                                                                                             </span>
@@ -433,7 +433,7 @@
                                                                             </li>
                                                                             <li id="menu-item-1855"
                                                                                 class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1855 col-sm-3 main-menu-item-sub  menu-item-odd menu-item-depth-1">
-                                                                                <a href="/offset-ctp"
+                                                                                <a href="http://www.noortec.com/kodak/offset-ctp/"
                                                                                    class=" main-menu-link main-menu-link-sub zn_mega_title ">
                                                                                     <span>Offset CTP &amp; Consumables
                                                                                     </span>
@@ -441,14 +441,14 @@
                                                                                 <ul class="clearfix">
                                                                                     <li id="menu-item-1903"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1903  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/ctp-systems"
+                                                                                        <a href="http://www.noortec.com/kodak/offset-ctp/ctp-systems/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>CTP Systems</span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li id="menu-item-3073"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-3073  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/pressroom-chemicals"
+                                                                                        <a href="http://www.noortec.com/kodak/offset-ctp/pressroom-chemicals/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>pressroom-chemicals
                                                                                             </span>
@@ -456,9 +456,10 @@
                                                                                     </li>
                                                                                     <li id="menu-item-3074"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-3074  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/digital-offset-plates"
+                                                                                        <a href="http://www.noortec.com/kodak/offset-ctp/digital-offset-plates/"
                                                                                            class=" main-menu-link main-menu-link-sub">
-                                                                                            <span>Digital Offset Plates
+                                                                                            <span>Digital Offset
+                                                                                                Plates
                                                                                             </span>
                                                                                         </a>
                                                                                     </li>
@@ -466,14 +467,14 @@
                                                                             </li>
                                                                             <li id="menu-item-1865"
                                                                                 class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1865 col-sm-3 main-menu-item-sub  menu-item-odd menu-item-depth-1">
-                                                                                <a href="/kodak-special-solutions"
+                                                                                <a href="http://www.noortec.com/kodak/kodak-special-solutions/"
                                                                                    class=" main-menu-link main-menu-link-sub zn_mega_title ">
                                                                                     <span>Software &amp; Services</span>
                                                                                 </a>
                                                                                 <ul class="clearfix">
                                                                                     <li id="menu-item-1911"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1911  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/prinergy-workflow"
+                                                                                        <a href="http://www.noortec.com/kodak/kodak-special-solutions/prinergy-workflow/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Prinergy Workflow
                                                                                             </span>
@@ -481,7 +482,7 @@
                                                                                     </li>
                                                                                     <li id="menu-item-1910"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1910  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/proofing-and-wide-format"
+                                                                                        <a href="http://www.noortec.com/kodak/kodak-special-solutions/proofing-and-wide-format/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Proofing &amp; Wide
                                                                                                 Format
@@ -490,7 +491,7 @@
                                                                                     </li>
                                                                                     <li id="menu-item-2914"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2914  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/modernisation-solutions"
+                                                                                        <a href="http://www.noortec.com/kodak/kodak-special-solutions/modernisation-solutions/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Modernisation
                                                                                                 Solutions
@@ -504,29 +505,29 @@
                                                                 </li>
                                                                 <li id="menu-item-2442"
                                                                     class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2442 menu-item-mega-parent menu-item-has-children  main-menu-item-top  menu-item-even menu-item-depth-0">
-                                                                    <a href="/other-product"
+                                                                    <a href="http://www.noortec.com/other-product/"
                                                                        class=" main-menu-link main-menu-link-top">
-                                                                        <span>Other Products 2</span>
+                                                                        <span>Other Products</span>
                                                                     </a>
                                                                     <div class="zn_mega_container container">
                                                                         <ul class="clearfix">
                                                                             <li id="menu-item-2446"
                                                                                 class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2446 col-sm-3 main-menu-item-sub  menu-item-odd menu-item-depth-1">
-                                                                                <a href="/packaging-printing"
+                                                                                <a href="http://www.noortec.com/other-product/packaging-printing/"
                                                                                    class=" main-menu-link main-menu-link-sub zn_mega_title ">
                                                                                     <span>Packaging Printing</span>
                                                                                 </a>
                                                                                 <ul class="clearfix">
                                                                                     <li id="menu-item-2460"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2460  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/kba-iberica-n"
+                                                                                        <a href="http://www.noortec.com/other-product/packaging-printing/kba-iberica-n/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>KBA-IBERICA</span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li id="menu-item-2461"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2461  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/kba-flexotechnica"
+                                                                                        <a href="http://www.noortec.com/other-product/packaging-printing/kba-flexotechnica/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>KBA-FlexoTechnica
                                                                                             </span>
@@ -534,14 +535,14 @@
                                                                                     </li>
                                                                                     <li id="menu-item-2459"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2459  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/bpagnati"
+                                                                                        <a href="http://www.noortec.com/other-product/packaging-printing/bpagnati/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>BPAgnati</span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li id="menu-item-2458"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2458  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/stock"
+                                                                                        <a href="http://www.noortec.com/other-product/packaging-printing/stock/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Stock</span>
                                                                                         </a>
@@ -550,28 +551,28 @@
                                                                             </li>
                                                                             <li id="menu-item-2445"
                                                                                 class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2445 col-sm-3 main-menu-item-sub  menu-item-odd menu-item-depth-1">
-                                                                                <a href="/publishing-printing"
+                                                                                <a href="http://www.noortec.com/other-product/publishing-printing/"
                                                                                    class=" main-menu-link main-menu-link-sub zn_mega_title ">
                                                                                     <span>Publishing Printing</span>
                                                                                 </a>
                                                                                 <ul class="clearfix">
                                                                                     <li id="menu-item-2488"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2488  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/mbo"
+                                                                                        <a href="http://www.noortec.com/other-product/publishing-printing/mbo/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>MBO</span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li id="menu-item-2487"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2487  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/wohlenberg"
+                                                                                        <a href="http://www.noortec.com/other-product/publishing-printing/wohlenberg/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Wohlenberg</span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li id="menu-item-2486"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2486  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/baumann-wohlenberg"
+                                                                                        <a href="http://www.noortec.com/other-product/publishing-printing/baumann-wohlenberg/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Baumann-Wohlenberg
                                                                                             </span>
@@ -579,7 +580,7 @@
                                                                                     </li>
                                                                                     <li id="menu-item-2485"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2485  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/layout-international"
+                                                                                        <a href="http://www.noortec.com/other-product/publishing-printing/layout-international/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Layout International
                                                                                             </span>
@@ -589,28 +590,28 @@
                                                                             </li>
                                                                             <li id="menu-item-2444"
                                                                                 class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2444 col-sm-3 main-menu-item-sub  menu-item-odd menu-item-depth-1">
-                                                                                <a href="/commercial-printing"
+                                                                                <a href="http://www.noortec.com/other-product/commercial-printing/"
                                                                                    class=" main-menu-link main-menu-link-sub zn_mega_title ">
                                                                                     <span>Commercial Printing</span>
                                                                                 </a>
                                                                                 <ul class="clearfix">
                                                                                     <li id="menu-item-2483"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2483  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/fidia"
+                                                                                        <a href="http://www.noortec.com/other-product/commercial-printing/fidia/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Fidia</span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li id="menu-item-2484"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2484  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/kama"
+                                                                                        <a href="http://www.noortec.com/other-product/commercial-printing/kama/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>KAMA</span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li id="menu-item-2482"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2482  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/tecnomac"
+                                                                                        <a href="http://www.noortec.com/other-product/commercial-printing/tecnomac/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Tecnomac</span>
                                                                                         </a>
@@ -619,21 +620,21 @@
                                                                             </li>
                                                                             <li id="menu-item-2443"
                                                                                 class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2443 col-sm-3 main-menu-item-sub  menu-item-odd menu-item-depth-1">
-                                                                                <a href="/complete-your-needs"
+                                                                                <a href="http://www.noortec.com/other-product/complete-your-needs/"
                                                                                    class=" main-menu-link main-menu-link-sub zn_mega_title ">
                                                                                     <span>Complete, Your Needs</span>
                                                                                 </a>
                                                                                 <ul class="clearfix">
                                                                                     <li id="menu-item-2481"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2481  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/finest-fog"
+                                                                                        <a href="http://www.noortec.com/other-product/complete-your-needs/finest-fog/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Finest Fog</span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li id="menu-item-2480"
                                                                                         class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2480  main-menu-item-sub main-menu-item-sub-sub menu-item-even menu-item-depth-2">
-                                                                                        <a href="/glunz-jenson"
+                                                                                        <a href="http://www.noortec.com/other-product/complete-your-needs/glunz-jenson/"
                                                                                            class=" main-menu-link main-menu-link-sub">
                                                                                             <span>Glunz &amp; Jenson
                                                                                             </span>
@@ -646,7 +647,7 @@
                                                                 </li>
                                                                 <li id="menu-item-2538"
                                                                     class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2538  main-menu-item-top  menu-item-even menu-item-depth-0">
-                                                                    <a href="/blog"
+                                                                    <a href="http://www.noortec.com/aries-homepage-2/blog/"
                                                                        class=" main-menu-link main-menu-link-top">
                                                                         <span>Blog</span>
                                                                     </a>
@@ -655,13 +656,7 @@
                                                                     class="main-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2407  main-menu-item-top  menu-item-even menu-item-depth-0">
                                                                     <a href="http://www.noortec.com/contact/"
                                                                        class=" main-menu-link main-menu-link-top">
-                                                                        <span>Contact Us 2</span>
-                                                                    </a>
-                                                                </li>
-
-                                                                <li>
-                                                                    <a t-attf-href="/web/login">
-                                                                        <b>Sign in</b>
+                                                                        <span>Contact Us</span>
                                                                     </a>
                                                                 </li>
                                                             </ul>
@@ -669,6 +664,7 @@
                                                     </div>
                                                     <!-- end main_menu -->
                                                 </div>
+
 
                                                 <div class="fxb-col fxb fxb-end-x fxb-center-y fxb-basis-auto fxb-sm-half site-header-col-right site-header-main-right">
 
@@ -737,7 +733,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                 <div class="item active">
 
                                     <img class="slide-item-bg cover-fit-img vertical-pos--center"
-                                         src="http://www.noortec.com/wp-content/uploads/2017/09/170707_B2_Webbanner_Hauptmotiv_03_sa.jpg"
+                                         src="/artarad_noortec_website/static/src/img/170707_B2_Webbanner_Hauptmotiv_03_sa.jpg"
                                          alt=""
                                          title="170707_B2_Webbanner_Hauptmotiv_03_sa"/>
                                     <div class="carousel-caption s3ext fromleft klios-alignleft">
@@ -766,7 +762,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                 <div class="item ">
 
                                     <img class="slide-item-bg cover-fit-img vertical-pos--center"
-                                         src="http://www.noortec.com/wp-content/uploads/2017/08/29546-443_showcase_decor_1920x670.jpg"
+                                         src="/artarad_noortec_website/static/src/img/29546-443_showcase_decor_1920x670.jpg"
                                          alt=""
                                          title="170707_B2_Webbanner_Hauptmotiv_03_sa"/>
                                     <div class="carousel-caption s3ext fromleft klios-alignleft">
@@ -795,7 +791,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                 <div class="item ">
 
                                     <img class="slide-item-bg cover-fit-img vertical-pos--center"
-                                         src="http://www.noortec.com/wp-content/uploads/2017/09/Rapida_106_Seitenansicht-2.jpg"
+                                         src="/artarad_noortec_website/static/src/img/Rapida_106_Seitenansicht-2.jpg"
                                          alt="" title="Rapida_106_Seitenansicht-2"/>
                                     <div class="carousel-caption s3ext fromleft klios-alignleft">
                                         <div class="znParallax-object"
@@ -841,7 +837,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                 <div class="item ">
 
                                     <img class="slide-item-bg cover-fit-img vertical-pos--center"
-                                         src="http://www.noortec.com/wp-content/uploads/2017/09/Banner_Eberle_Druck_1920x670.jpg"
+                                         src="/artarad_noortec_website/static/src/img/Banner_Eberle_Druck_1920x670.jpg"
                                          alt="" title="Banner_Eberle_Druck_1920x670"/>
                                     <div class="carousel-caption s3ext fromleft klios-alignleft">
                                         <div class="znParallax-object"
@@ -870,7 +866,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                 <div class="item ">
 
                                     <img class="slide-item-bg cover-fit-img vertical-pos--center"
-                                         src="http://www.noortec.com/wp-content/uploads/2017/09/KBA_AZ_ErgoTronic-AutoRun_Keyvisual_Header_1920x670px_EN.jpg"
+                                         src="/artarad_noortec_website/static/src/img/KBA_AZ_ErgoTronic-AutoRun_Keyvisual_Header_1920x670px_EN.jpg"
                                          alt="" title="KBA_AZ_ErgoTronic-AutoRun_Keyvisual_Header_1920x670px_EN"/>
                                     <div class="carousel-caption s3ext fromleft klios-alignleft">
                                         <div class="znParallax-object"
@@ -1022,7 +1018,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/5.jpg"
+                                                                         src="/artarad_noortec_website/static/src/img/5.jpg"
                                                                          width="230" height="93" alt="" title="5"/>
 
 
@@ -1033,7 +1029,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/6-1.png"
+                                                                         src="/artarad_noortec_website/static/src/img/6-1.png"
                                                                          width="220" height="74" alt="" title="6"/>
 
 
@@ -1044,7 +1040,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/7.jpg"
+                                                                         src="/artarad_noortec_website/static/src/img/7.jpg"
                                                                          width="235" height="75" alt="" title="7"/>
 
 
@@ -1055,7 +1051,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/8.jpg"
+                                                                         src="/artarad_noortec_website/static/src/img/8.jpg"
                                                                          width="235" height="75" alt="" title="8"/>
 
 
@@ -1066,7 +1062,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/9.jpeg"
+                                                                         src="/artarad_noortec_website/static/src/img/9.jpeg"
                                                                          width="200" height="66" alt="" title="9"/>
 
 
@@ -1078,7 +1074,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/1.jpg"
+                                                                         src="/artarad_noortec_website/static/src/img/1.jpg"
                                                                          width="235" height="75" alt="" title="1"/>
 
 
@@ -1093,7 +1089,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                        title="Fidia" target="_self" itemprop="url"
                                                                        rel="nofollow" tabindex="0">
                                                                         <img class="ts-pt-partners__img img-responsive"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2017/04/2.jpeg"
+                                                                             src="/artarad_noortec_website/static/src/img/2.jpeg"
                                                                              width="140" height="50" alt="" title="2"/>
 
                                                                     </a>
@@ -1105,7 +1101,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/3.jpg"
+                                                                         src="/artarad_noortec_website/static/src/img/3.jpg"
                                                                          width="250" height="86" alt="" title="3"/>
 
 
@@ -1117,7 +1113,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/4.jpg"
+                                                                         src="/artarad_noortec_website/static/src/img/4.jpg"
                                                                          width="198" height="60" alt="" title="4"/>
 
 
@@ -1129,7 +1125,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/5.jpg"
+                                                                         src="/artarad_noortec_website/static/src/img/5.jpg"
                                                                          width="230" height="93" alt="" title="5"/>
 
 
@@ -1141,7 +1137,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/6-1.png"
+                                                                         src="/artarad_noortec_website/static/src/img/6-1.png"
                                                                          width="220" height="74" alt="" title="6"/>
 
 
@@ -1153,7 +1149,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/7.jpg"
+                                                                         src="/artarad_noortec_website/static/src/img/7.jpg"
                                                                          width="235" height="75" alt="" title="7"/>
 
 
@@ -1165,7 +1161,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/8.jpg"
+                                                                         src="/artarad_noortec_website/static/src/img/8.jpg"
                                                                          width="235" height="75" alt="" title="8"/>
 
 
@@ -1177,7 +1173,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/9.jpeg"
+                                                                         src="/artarad_noortec_website/static/src/img/9.jpeg"
                                                                          width="200" height="66" alt="" title="9"/>
 
 
@@ -1188,7 +1184,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/1.jpg"
+                                                                         src="/artarad_noortec_website/static/src/img/1.jpg"
                                                                          width="235" height="75" alt="" title="1"/>
 
 
@@ -1202,7 +1198,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                        title="Fidia" target="_self" itemprop="url"
                                                                        rel="nofollow" tabindex="-1">
                                                                         <img class="ts-pt-partners__img img-responsive"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2017/04/2.jpeg"
+                                                                             src="/artarad_noortec_website/static/src/img/2.jpeg"
                                                                              width="140" height="50" alt="" title="2"/>
 
                                                                     </a>
@@ -1213,7 +1209,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/3.jpg"
+                                                                         src="/artarad_noortec_website/static/src/img/3.jpg"
                                                                          width="250" height="86" alt="" title="3"/>
 
 
@@ -1224,7 +1220,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/4.jpg"
+                                                                         src="/artarad_noortec_website/static/src/img/4.jpg"
                                                                          width="198" height="60" alt="" title="4"/>
 
 
@@ -1235,7 +1231,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                     <img class="ts-pt-partners__img img-responsive"
-                                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/5.jpg"
+                                                                         src="/artarad_noortec_website/static/src/img/5.jpg"
                                                                          width="230" height="93" alt="" title="5"/>
 
 
@@ -1293,7 +1289,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
                                                                     <div class="kl-iconbox__icon-wrapper ">
                                                                         <img class="kl-iconbox__icon"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2015/08/set-03-01.svg"
+                                                                             src="/artarad_noortec_website/static/src/img/set-03-01.svg"
                                                                              alt="" title="set-03-01.svg"/>
                                                                     </div><!-- /.kl-iconbox__icon-wrapper -->
 
@@ -1334,7 +1330,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
                                                                     <div class="kl-iconbox__icon-wrapper ">
                                                                         <img class="kl-iconbox__icon"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2015/08/set-03-02.svg"
+                                                                             src="/artarad_noortec_website/static/src/img/set-03-02.svg"
                                                                              alt="" title="set-03-02.svg"/>
                                                                     </div><!-- /.kl-iconbox__icon-wrapper -->
 
@@ -1375,7 +1371,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
                                                                     <div class="kl-iconbox__icon-wrapper ">
                                                                         <img class="kl-iconbox__icon"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2015/08/set-03-03.svg"
+                                                                             src="/artarad_noortec_website/static/src/img/set-03-03.svg"
                                                                              alt="" title="set-03-03.svg"/>
                                                                     </div><!-- /.kl-iconbox__icon-wrapper -->
 
@@ -1416,7 +1412,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
                                                                     <div class="kl-iconbox__icon-wrapper ">
                                                                         <img class="kl-iconbox__icon"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2015/08/set-03-04.svg"
+                                                                             src="/artarad_noortec_website/static/src/img/set-03-04.svg"
                                                                              alt="" title="set-03-04.svg"/>
                                                                     </div><!-- /.kl-iconbox__icon-wrapper -->
 
@@ -1499,7 +1495,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="-1">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/csm_F2_IMG_20170126_164704_g_d792572ca1-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/csm_F2_IMG_20170126_164704_g_d792572ca1-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="csm_F2_IMG_20170126_164704_g_d792572ca1"/>
                                                                                 <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
@@ -1544,7 +1540,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/08/F1_RapidaLiveApp-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/F1_RapidaLiveApp-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="F1_RapidaLiveApp"/>
                                                                                 <span
@@ -1592,7 +1588,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/08/F1_29798-009-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/F1_29798-009-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="F1_29798-009"/>
                                                                                 <span
@@ -1638,7 +1634,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/08/29798-032-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/29798-032-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="29798-032"/>
                                                                                 <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
@@ -1683,7 +1679,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/F1_KBA_01_g-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/F1_KBA_01_g-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="F1_KBA_01_g"/>
                                                                                 <span
@@ -1729,7 +1725,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/08/F01_colorpress_g-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/F01_colorpress_g-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="F01_colorpress_g"/>
                                                                                 <span
@@ -1775,7 +1771,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/csm_F2_IMG_20170126_164704_g_d792572ca1-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/csm_F2_IMG_20170126_164704_g_d792572ca1-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="csm_F2_IMG_20170126_164704_g_d792572ca1"/>
                                                                                 <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
@@ -1820,7 +1816,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/csm_F1_20160610_125031_g_fde89a891a-1-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/csm_F1_20160610_125031_g_fde89a891a-1-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="csm_F1_20160610_125031_g_fde89a891a (1)"/>
                                                                                 <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
@@ -1865,7 +1861,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/F1_DSC6772_g-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/F1_DSC6772_g-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="F1_DSC6772_g"/>
                                                                                 <span
@@ -1911,7 +1907,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="-1">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/08/Foto-EVO-XD-BLU-x-poster_g-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/Foto-EVO-XD-BLU-x-poster_g-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="Foto-EVO-XD-BLU-x-poster_g"/>
                                                                                 <span
@@ -1957,7 +1953,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="-1">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/08/F1_29798-133_g-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/F1_29798-133_g-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="F1_29798-133_g"/>
                                                                                 <span
@@ -2063,7 +2059,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/09/kodak-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/kodak-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="kodak"/>
                                                                                 <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
@@ -2104,7 +2100,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/09/HUB-LOGO-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/HUB-LOGO-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="HUB-LOGO"/>
                                                                                 <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
@@ -2146,7 +2142,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/09/Prinergy8-1-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/Prinergy8-1-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="Prinergy8-1"/>
                                                                                 <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
@@ -2189,7 +2185,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/09/printforgood-02a-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/printforgood-02a-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="printforgood-02a"/>
                                                                                 <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
@@ -2231,7 +2227,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/Prosper6000S_Hybrid_25Oct2016_hi-420x240.png"
+                                                                                     src="/artarad_noortec_website/static/src/img/Prosper6000S_Hybrid_25Oct2016_hi-420x240.png"
                                                                                      width="420" height="240" alt=""
                                                                                      title="Prosper6000S_Hybrid_25Oct2016_hi"/>
                                                                                 <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
@@ -2273,7 +2269,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/ChinaPrintFlexo-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/ChinaPrintFlexo-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="ChinaPrintFlexo"/>
                                                                                 <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
@@ -2316,7 +2312,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/ChinaPrintPSD-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/ChinaPrintPSD-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="ChinaPrintPSD"/>
                                                                                 <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
@@ -2359,7 +2355,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/EDP-Award-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/EDP-Award-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="EDP-Award"/>
                                                                                 <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
@@ -2401,7 +2397,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/ChinaPrintEISD-420x240.png"
+                                                                                     src="/artarad_noortec_website/static/src/img/ChinaPrintEISD-420x240.png"
                                                                                      width="420" height="240" alt=""
                                                                                      title="ChinaPrintEISD"/>
                                                                                 <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
@@ -2444,7 +2440,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
                                                                                tabindex="0">
                                                                                 <img class="latest-posts-crs-img"
-                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/PrintForGood-420x240.jpg"
+                                                                                     src="/artarad_noortec_website/static/src/img/PrintForGood-420x240.jpg"
                                                                                      width="420" height="240" alt=""
                                                                                      title="PrintForGood"/>
                                                                                 <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
@@ -2576,7 +2572,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                         <div class="ts-pt-testimonials__infos ts-pt-testimonials__infos--">
 
                                                             <img class="ts-pt-testimonials__img cover-fit-img"
-                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/2320014.jpg"
+                                                                 src="/artarad_noortec_website/static/src/img/2320014.jpg"
                                                                  width="310" height="268" alt="" title="2320014"/>
 
                                                             <h4 class="ts-pt-testimonials__name" itemprop="headline">
@@ -2611,7 +2607,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                         <div class="ts-pt-testimonials__infos ts-pt-testimonials__infos--">
 
                                                             <img class="ts-pt-testimonials__img cover-fit-img"
-                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/shahab.jpeg"
+                                                                 src="/artarad_noortec_website/static/src/img/shahab.jpeg"
                                                                  width="170" height="200" alt="" title="shahab"/>
 
                                                             <h4 class="ts-pt-testimonials__name" itemprop="headline">
@@ -2641,7 +2637,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                         <div class="ts-pt-testimonials__infos ts-pt-testimonials__infos--">
 
                                                             <img class="ts-pt-testimonials__img cover-fit-img"
-                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/mansouri2.jpg"
+                                                                 src="/artarad_noortec_website/static/src/img/mansouri2.jpg"
                                                                  width="600" height="418" alt="" title="mansouri2"/>
 
                                                             <h4 class="ts-pt-testimonials__name" itemprop="headline">Dr.
@@ -2696,7 +2692,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                         <img class="ts-pt-partners__img img-responsive"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2017/04/9.png"
+                                                                             src="/artarad_noortec_website/static/src/img/9.png"
                                                                              width="300" height="200" alt="" title="9"/>
 
 
@@ -2707,7 +2703,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                         <img class="ts-pt-partners__img img-responsive"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2017/04/10.png"
+                                                                             src="/artarad_noortec_website/static/src/img/10.png"
                                                                              width="300" height="200" alt=""
                                                                              title="10"/>
 
@@ -2719,7 +2715,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                         <img class="ts-pt-partners__img img-responsive"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2017/04/11.png"
+                                                                             src="/artarad_noortec_website/static/src/img/11.png"
                                                                              width="300" height="200" alt=""
                                                                              title="11"/>
 
@@ -2731,7 +2727,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                         <img class="ts-pt-partners__img img-responsive"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2017/04/12.png"
+                                                                             src="/artarad_noortec_website/static/src/img/12.png"
                                                                              width="300" height="200" alt=""
                                                                              title="12"/>
 
@@ -2743,7 +2739,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                         <img class="ts-pt-partners__img img-responsive"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2017/04/13.png"
+                                                                             src="/artarad_noortec_website/static/src/img/13.png"
                                                                              width="300" height="200" alt=""
                                                                              title="13"/>
 
@@ -2757,7 +2753,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                         <a href="#" class="ts-pt-partners__link"
                                                                            target="_self" itemprop="url" tabindex="-1">
                                                                             <img class="ts-pt-partners__img img-responsive"
-                                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/1.png"
+                                                                                 src="/artarad_noortec_website/static/src/img/1.png"
                                                                                  width="300" height="200" alt=""
                                                                                  title="1"/>
 
@@ -2771,7 +2767,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                         <a href="#" class="ts-pt-partners__link"
                                                                            target="_self" itemprop="url" tabindex="-1">
                                                                             <img class="ts-pt-partners__img img-responsive"
-                                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/2.png"
+                                                                                 src="/artarad_noortec_website/static/src/img/2.png"
                                                                                  width="300" height="200" alt=""
                                                                                  title="2"/>
 
@@ -2785,7 +2781,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                         <a href="#" class="ts-pt-partners__link"
                                                                            target="_self" itemprop="url" tabindex="-1">
                                                                             <img class="ts-pt-partners__img img-responsive"
-                                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/3.png"
+                                                                                 src="/artarad_noortec_website/static/src/img/3.png"
                                                                                  width="300" height="200" alt=""
                                                                                  title="3"/>
 
@@ -2799,7 +2795,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                         <a href="#" class="ts-pt-partners__link"
                                                                            target="_self" itemprop="url" tabindex="-1">
                                                                             <img class="ts-pt-partners__img img-responsive"
-                                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/4.png"
+                                                                                 src="/artarad_noortec_website/static/src/img/4.png"
                                                                                  width="300" height="200" alt=""
                                                                                  title="4"/>
 
@@ -2813,7 +2809,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                         <a href="#" class="ts-pt-partners__link"
                                                                            target="_self" itemprop="url" tabindex="-1">
                                                                             <img class="ts-pt-partners__img img-responsive"
-                                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/5.png"
+                                                                                 src="/artarad_noortec_website/static/src/img/5.png"
                                                                                  width="300" height="200" alt=""
                                                                                  title="5"/>
 
@@ -2827,7 +2823,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                         <a href="#" class="ts-pt-partners__link"
                                                                            target="_self" itemprop="url" tabindex="-1">
                                                                             <img class="ts-pt-partners__img img-responsive"
-                                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/6.png"
+                                                                                 src="/artarad_noortec_website/static/src/img/6.png"
                                                                                  width="300" height="200" alt=""
                                                                                  title="6"/>
 
@@ -2841,7 +2837,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                         <a href="#" class="ts-pt-partners__link"
                                                                            target="_self" itemprop="url" tabindex="-1">
                                                                             <img class="ts-pt-partners__img img-responsive"
-                                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/7.png"
+                                                                                 src="/artarad_noortec_website/static/src/img/7.png"
                                                                                  width="300" height="200" alt=""
                                                                                  title="7"/>
 
@@ -2855,7 +2851,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                         <a href="#" class="ts-pt-partners__link"
                                                                            target="_self" itemprop="url" tabindex="0">
                                                                             <img class="ts-pt-partners__img img-responsive"
-                                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/8.png"
+                                                                                 src="/artarad_noortec_website/static/src/img/8.png"
                                                                                  width="300" height="200" alt=""
                                                                                  title="8"/>
 
@@ -2868,7 +2864,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                         <img class="ts-pt-partners__img img-responsive"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2017/04/9.png"
+                                                                             src="/artarad_noortec_website/static/src/img/9.png"
                                                                              width="300" height="200" alt="" title="9"/>
 
 
@@ -2880,7 +2876,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                         <img class="ts-pt-partners__img img-responsive"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2017/04/10.png"
+                                                                             src="/artarad_noortec_website/static/src/img/10.png"
                                                                              width="300" height="200" alt=""
                                                                              title="10"/>
 
@@ -2894,7 +2890,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                         <img class="ts-pt-partners__img img-responsive"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2017/04/11.png"
+                                                                             src="/artarad_noortec_website/static/src/img/11.png"
                                                                              width="300" height="200" alt=""
                                                                              title="11"/>
 
@@ -2908,7 +2904,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                         <img class="ts-pt-partners__img img-responsive"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2017/04/12.png"
+                                                                             src="/artarad_noortec_website/static/src/img/12.png"
                                                                              width="300" height="200" alt=""
                                                                              title="12"/>
 
@@ -2922,7 +2918,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
 
                                                                         <img class="ts-pt-partners__img img-responsive"
-                                                                             src="http://www.noortec.com/wp-content/uploads/2017/04/13.png"
+                                                                             src="/artarad_noortec_website/static/src/img/13.png"
                                                                              width="300" height="200" alt=""
                                                                              title="13"/>
 
@@ -2935,7 +2931,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                         <a href="#" class="ts-pt-partners__link"
                                                                            target="_self" itemprop="url" tabindex="-1">
                                                                             <img class="ts-pt-partners__img img-responsive"
-                                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/1.png"
+                                                                                 src="/artarad_noortec_website/static/src/img/1.png"
                                                                                  width="300" height="200" alt=""
                                                                                  title="1"/>
 
@@ -2948,7 +2944,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                         <a href="#" class="ts-pt-partners__link"
                                                                            target="_self" itemprop="url" tabindex="-1">
                                                                             <img class="ts-pt-partners__img img-responsive"
-                                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/2.png"
+                                                                                 src="/artarad_noortec_website/static/src/img/2.png"
                                                                                  width="300" height="200" alt=""
                                                                                  title="2"/>
 
@@ -2961,7 +2957,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                         <a href="#" class="ts-pt-partners__link"
                                                                            target="_self" itemprop="url" tabindex="-1">
                                                                             <img class="ts-pt-partners__img img-responsive"
-                                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/3.png"
+                                                                                 src="/artarad_noortec_website/static/src/img/3.png"
                                                                                  width="300" height="200" alt=""
                                                                                  title="3"/>
 
@@ -2974,7 +2970,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                         <a href="#" class="ts-pt-partners__link"
                                                                            target="_self" itemprop="url" tabindex="-1">
                                                                             <img class="ts-pt-partners__img img-responsive"
-                                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/4.png"
+                                                                                 src="/artarad_noortec_website/static/src/img/4.png"
                                                                                  width="300" height="200" alt=""
                                                                                  title="4"/>
 
@@ -2987,7 +2983,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                         <a href="#" class="ts-pt-partners__link"
                                                                            target="_self" itemprop="url" tabindex="-1">
                                                                             <img class="ts-pt-partners__img img-responsive"
-                                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/5.png"
+                                                                                 src="/artarad_noortec_website/static/src/img/5.png"
                                                                                  width="300" height="200" alt=""
                                                                                  title="5"/>
 
@@ -3058,7 +3054,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                              tabindex="-1" role="option"
                                                              aria-describedby="slick-slide50">
                                                             <img class="ls-slider-item__img cover-fit-img"
-                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/Rapida_75_Pro_Seitenansicht-2-800x600.jpg"
+                                                                 src="/artarad_noortec_website/static/src/img/Rapida_75_Pro_Seitenansicht-2-800x600.jpg"
                                                                  width="800" height="600" alt=""
                                                                  title="Rapida_75_Pro_Seitenansicht"/>
                                                         </div>
@@ -3293,7 +3289,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                             <div class="copyright footer-copyright">
                                                 <a href="http://www.noortec.com" class="footer-copyright-link">
                                                     <img class="footer-copyright-img"
-                                                         src="http://www.noortec.com/wp-content/uploads/2017/04/NOORTEC-LOGO-IN-HEADER.png"
+                                                         src="/artarad_noortec_website/static/src/img/NOORTEC-LOGO-IN-HEADER.png"
                                                          width="147" height="36" alt="Noortec"/>
                                                 </a>
                                                 <p class="footer-copyright-text">© 2017. All rights reserved. By<a
