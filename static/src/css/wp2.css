@@ -4239,10 +4239,11 @@ img.kl-iconbox__icon {
 }
 
 .website_blog #main_column> .mb32 {
-    width: 47%;
+    width: 31%;
     float: left;
     margin: 0 1%;
     background-color: white;
+    min-height: 800px;
 }
 .website_blog .o_blog_cover_container.o_list_cover.cover{
     margin-top: 0!important;
@@ -4252,4 +4253,17 @@ img.kl-iconbox__icon {
 }
 #blog_right_column{
     background-color: white;
+}
+
+ #main_column.col-sm-8 {
+
+    width: 75% !important;
+}
+
+ #blog_right_column.col-lg-offset-1{
+    margin-left: 0!important;
+}
+
+ #blog_right_column.col-sm-4{
+    width: 25%!important;
 }
